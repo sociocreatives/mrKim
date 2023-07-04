@@ -1,0 +1,4 @@
+#Tue Jul 04 11:44:22 EAT 2023
+base.0=/Users/ovasis/Desktop/Projects/mrkim/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
